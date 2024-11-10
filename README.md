@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Nickurama
-- 💻 C, C#, C++, Java, Python
+- 💻 C, C++, C#, Java, Python, Javascript/Typescript
 - 🏆 European competitive programming competitor (SWERC)
-- 🏆 National competitive programming competitor (MIUP)
-- 🎓 Computer Science student at University of Algarve
-
-<!---
-Nickurama/Nickurama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🏆 Bronze medalist on national competitive programming competition (MIUP)
+- 🎓 Computer Science student at University of Algarve (3rd year)
